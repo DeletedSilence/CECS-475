@@ -1,0 +1,15 @@
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\SchoolDB.mdf
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\SchoolDB_log.ldf
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\BusinessLayer.exe.config
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\BusinessLayer.exe
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\BusinessLayer.pdb
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\hollo\source\repos\Client\BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hollo\source\repos\Client\BusinessLayer\obj\Debug\BusinessLayer.csprojAssemblyReference.cache
+C:\Users\hollo\source\repos\Client\BusinessLayer\obj\Debug\BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hollo\source\repos\Client\BusinessLayer\obj\Debug\BusinessLayer.csproj.CopyComplete
+C:\Users\hollo\source\repos\Client\BusinessLayer\obj\Debug\BusinessLayer.exe
+C:\Users\hollo\source\repos\Client\BusinessLayer\obj\Debug\BusinessLayer.pdb

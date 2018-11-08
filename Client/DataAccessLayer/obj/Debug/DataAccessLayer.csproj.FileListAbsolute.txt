@@ -1,0 +1,12 @@
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\SchoolDB.mdf
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\SchoolDB_log.ldf
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\DataAccessLayer.exe.config
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\DataAccessLayer.exe
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\DataAccessLayer.pdb
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\EntityFramework.dll
+C:\Users\hollo\source\repos\Client\DataAccessLayer\bin\Debug\EntityFramework.xml
+C:\Users\hollo\source\repos\Client\DataAccessLayer\obj\Debug\DataAccessLayer.csprojAssemblyReference.cache
+C:\Users\hollo\source\repos\Client\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\hollo\source\repos\Client\DataAccessLayer\obj\Debug\DataAccessLayer.csproj.CopyComplete
+C:\Users\hollo\source\repos\Client\DataAccessLayer\obj\Debug\DataAccessLayer.exe
+C:\Users\hollo\source\repos\Client\DataAccessLayer\obj\Debug\DataAccessLayer.pdb
